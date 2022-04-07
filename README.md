@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo Machado</h1>
 <h3 align="center">A self-taught person, studying to be a backend developer.</h3>
 
-- 🌱 I’m currently learning **Data analysis with Python**
+- 🌱 I’m currently learning **Javascript Language and Frameworks with .js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniloM0204?tab=repositories](https://github.com/DaniloM0204?tab=repositories)
 
