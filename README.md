@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo Machado</h1>
 <h3 align="center">Olá, me chamo Danilo Machado tenho 22 anos, e estou aprendendo a programar de forma autodidata.</h3>
 
-- 🌱 I’m currently learning **to be a FullStack Developer**
+- 🌱 I’m current **a FullStack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniloM0204?tab=repositories](https://github.com/DaniloM0204?tab=repositories)
 
