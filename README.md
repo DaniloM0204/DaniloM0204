@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danilo Machado Bezerra</h1>
-<h3 align="center">Olá, me chamo Danilo Machado tenho 23 anos, e estou aprendendo a programar de forma autodidata.</h3>
+<h3 align="center">Olá, me chamo Danilo Machado tenho 24 anos, procurando evoluir na programação cada dia mais.</h3>
 
 - 🌱 I’m currently learning **to be a Data Scientist**
 
