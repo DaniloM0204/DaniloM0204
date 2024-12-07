@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Danilo Machado Bezerra</h1>
 <h3 align="center">Olá, me chamo Danilo Machado tenho 24 anos, procurando evoluir na programação cada dia mais.</h3>
 
-- 🌱 I’m currently learning **to be a Data Scientist**
+- 🌱 I’m currently studying **to be a Aeroespace Engginering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniloM0204?tab=repositories](https://github.com/DaniloM0204?tab=repositories)
 
 - 📫 How to reach me **danilo_mbezerra@icloud.com**
 
-- ⚡ Fun fact **I'm studying Aeroespace Engginering**
+- ⚡ Fun fact **I love legos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
